@@ -1,0 +1,1 @@
+Create a Amazon clone by using HTML or CSS. This includes designing the homepage, product listings, product detail pages ,and other essential components, while ensuring a responsive and user-friendly interface.
